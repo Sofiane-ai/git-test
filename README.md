@@ -2,8 +2,7 @@
 
 First time on git
 
-<<<<<<< HEAD
-Add feature
-=======
 Add feature to master
->>>>>>> feature
+
+
+Add feature to master again
